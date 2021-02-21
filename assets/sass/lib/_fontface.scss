@@ -12,6 +12,8 @@ $font_route_a: '../fonts/source-sans';
 
 @font-face{
     font-family: 'Roslindale Variable Edu';
-    src: url('../../fonts/roslindale/roslindalevariable-vf-edu-webfont.woff') format('woff'),
-    url('../../fonts/roslindale/roslindalevariable-vf-edu-webfont.woff2') format('woff2');
+    src: url('../fonts/roslindale/roslindalevariable-vf-edu-webfont.ttf') format('ttf')
+    url('../fonts/roslindale/roslindalevariable-vf-edu-webfont.woff') format('woff'),
+    url('../fonts/roslindale/roslindalevariable-vf-edu-webfont.woff2') format('woff2');
+    
 }
